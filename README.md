@@ -20,16 +20,16 @@
 ---
 
 ### 🌟 Projects  
-- **[Job Portal](#)**: A full-stack platform with features for candidates and recruiters, built using **React**, **Supabase**, **Clerk**, and **Tailwind CSS**.  
-- **[Landing Page Generator](#)**: A tool that reduces deployment time by 80%, developed with a combination of **React** and **Node.js**.  
-- **[Text Editor Features](#)**: Built an auto-save function, improving user productivity by 50%.  
-
+- **[Job Portal](https://hirrd-eight.vercel.app/)**: A full-stack platform with features for candidates and recruiters, built using **React**, **Supabase**, **Clerk**, and **Tailwind CSS**.  
+- **[Landing Page Generator]**: A tool that reduces deployment time by 80%, developed with a combination of **React** and **Node.js**.  
+- **[Text Editor Features]**: Built an auto-save function, improving user productivity by 50%.  
+<!--
 ---
 
 ### 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahtvbansal&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahtvbansal&layout=compact&theme=radical)  
-
+-->
 ---
 
 ### 📫 Let's Connect!  
